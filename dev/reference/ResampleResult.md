@@ -792,9 +792,9 @@ rr$set_threshold(0.6)
 #> Key: <uhash, iteration>
 #>                                   uhash iteration      learner_state prediction
 #>                                  <char>     <int>             <list>     <list>
-#> 1: 0022d78f-1084-404c-8b42-ba8988d94c58         1 <learner_state[8]>  <list[1]>
-#> 2: 0022d78f-1084-404c-8b42-ba8988d94c58         2 <learner_state[8]>  <list[1]>
-#> 3: 0022d78f-1084-404c-8b42-ba8988d94c58         3 <learner_state[8]>  <list[1]>
+#> 1: 828efe14-3aa0-415c-971f-532d49578001         1 <learner_state[8]>  <list[1]>
+#> 2: 828efe14-3aa0-415c-971f-532d49578001         2 <learner_state[8]>  <list[1]>
+#> 3: 828efe14-3aa0-415c-971f-532d49578001         3 <learner_state[8]>  <list[1]>
 #>        learner_hash        task_hash    learner_phash  resampling_hash
 #>              <char>           <char>           <char>           <char>
 #> 1: 2099aa995d4e20f7 062d5c9e3bac138b 5b2c800eb8611508 9c305b322d6fd7d3
